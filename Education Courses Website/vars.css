@@ -1,0 +1,77 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --primary-color: #23a6f0;
+  --danger-text-color: #e74040;
+  --secondary-color-1: #40bb15;
+  --faded-secondary-color-2: #ffdcd1;
+  --light-gray-1: #fafafa;
+  --faded-secondary-color-1: #b9eaa8;
+  --faded-primary-color: #b2e3ff;
+  --alert-color: #e77c40;
+  --primary-text-color: #23a6f0;
+  --dark-background-color: #252b42;
+  --muted-color: #bdbdbd;
+  --light-background-color: #ffffff;
+  --secondary: #f3cd03;
+  --text-color: #252b42;
+  --light-text-color: #ffffff;
+  --danger-color: #e74040;
+  --second-text-color: #737373;
+
+  /* Fonts */
+  --paragraph-font-family: Montserrat-Regular, sans-serif;
+  --paragraph-font-size: 14px;
+  --paragraph-line-height: 20px;
+  --paragraph-font-weight: 400;
+  --paragraph-font-style: normal;
+  --small-font-family: Montserrat-Regular, sans-serif;
+  --small-font-size: 12px;
+  --small-line-height: 16px;
+  --small-font-weight: 400;
+  --small-font-style: normal;
+  --link-font-family: Montserrat-Bold, sans-serif;
+  --link-font-size: 14px;
+  --link-line-height: 24px;
+  --link-font-weight: 700;
+  --link-font-style: normal;
+  --btn-text-font-family: Montserrat-Bold, sans-serif;
+  --btn-text-font-size: 14px;
+  --btn-text-line-height: 22px;
+  --btn-text-font-weight: 700;
+  --btn-text-font-style: normal;
+  --h2-font-family: Montserrat-Bold, sans-serif;
+  --h2-font-size: 40px;
+  --h2-line-height: 50px;
+  --h2-font-weight: 700;
+  --h2-font-style: normal;
+  --h6-font-family: Montserrat-Bold, sans-serif;
+  --h6-font-size: 14px;
+  --h6-line-height: 24px;
+  --h6-font-weight: 700;
+  --h6-font-style: normal;
+  --h5-font-family: Montserrat-Bold, sans-serif;
+  --h5-font-size: 16px;
+  --h5-line-height: 24px;
+  --h5-font-weight: 700;
+  --h5-font-style: normal;
+  --h3-font-family: Montserrat-Bold, sans-serif;
+  --h3-font-size: 24px;
+  --h3-line-height: 32px;
+  --h3-font-weight: 700;
+  --h3-font-style: normal;
+  --h1-font-family: Montserrat-Bold, sans-serif;
+  --h1-font-size: 58px;
+  --h1-line-height: 80px;
+  --h1-font-weight: 700;
+  --h1-font-style: normal;
+  --h4-font-family: Montserrat-Regular, sans-serif;
+  --h4-font-size: 20px;
+  --h4-line-height: 30px;
+  --h4-font-weight: 400;
+  --h4-font-style: normal;
+
+  /* Effects */
+  --light-drop-shadow-box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+  --accentued-drop-shadow-box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
+}
